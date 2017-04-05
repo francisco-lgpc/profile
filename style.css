@@ -18,7 +18,7 @@ h2 {
 h3 {
   font-family: 'Palanquin Dark', sans-serif;
   color: rgb(124, 124, 124);
-  padding: 0 !important;
+  padding: 0;
   -webkit-margin-after: 0;
 }
 
