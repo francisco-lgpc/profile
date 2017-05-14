@@ -43,6 +43,10 @@ ul {
   padding-left: 20px;
 }
 
+.lead-card {
+  position: relative;
+}
+
 .icon-blue {
   color: #022E59;
 }
@@ -77,11 +81,14 @@ ul {
 
 #card-social-network {
   padding: 1px 20px;
+  position: absolute;
+  right: 10px;
+  bottom: 0;
 }
 
 #card-social-network ul li {
   font-size: 40px;
-  padding-left: 50px;
+  padding: 10px;
 }
 
 
