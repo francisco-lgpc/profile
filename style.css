@@ -112,6 +112,16 @@ ul {
   padding: 0 19px 0 20px;
 }
 
+#img-logo-knorgan {
+  height: 170px;
+  padding: 10px 149px 0 0;
+}
+
+#img-logo-fpb {
+  height: 140px;
+  padding: 20px 19px 0 42px;
+}
+
 .list-in-line {
   text-align: center;
 }
